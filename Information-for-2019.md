@@ -1,5 +1,5 @@
 # Welcome to Open Data Day 2019!
-### For more information, visit our [group website](https://devoworm.weebly.com/), the [DevoZoo site](https://devoworm.github.io/devozoo.htm), or [Synthetic Daisies blogpost](http://syntheticdaisies.blogspot.com/)
+### For more information, visit our [group website](https://devoworm.weebly.com/), the [DevoZoo site](https://devoworm.github.io/devozoo.htm), or [Synthetic Daisies blogpost](http://syntheticdaisies.blogspot.com/2019/03/open-data-day-2019-devozoo-is-live.html)
 
 This directory is for potential collaborators who would like to contribute suggestions for revisions, additional resources, or point to potential contributions (new datasets, visualizations, and data analyses). 
 
