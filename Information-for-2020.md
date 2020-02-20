@@ -1,1 +1,1 @@
-We will be participating in [Open Data Day](https://opendataday.org/) again for 2020. The date: March 7. The place: the [DevoWorm group](https://devoworm.weebly.com/) and our [DevoZoo](https://devoworm.github.io/).
+We will be participating in [Open Data Day](https://opendataday.org/) again for 2020. The date: March 7. The place: the [DevoWorm group](https://devoworm.weebly.com/) and our [DevoZoo](https://devoworm.github.io/). Check out [Synthetic Daisies blog](http://syntheticdaisies.blogspot.com/) for more information as it becomes available.
