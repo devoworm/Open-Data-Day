@@ -1,1 +1,1 @@
-This repositiory contains possible activities initiated as part of Open Data Day 2020. 
+This repositiory contains possible activities initiated as part of Open Data Day 2020. Please see [this talk](https://docs.google.com/presentation/d/1o_mzXDeAtIJrRZ7MNahsTe9X7gx0G9kl8WHmQ6W6jMM/edit#slide=id.g6fe9eb7b63_0_32) for more information.
