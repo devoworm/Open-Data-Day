@@ -7,7 +7,7 @@ Check out [Synthetic Daisies blog](http://syntheticdaisies.blogspot.com/) for mo
 * attend our [group meeting](https://tiny.cc/DevoWorm) on March 2 for an overview of how you can contribute to DevoWorm this Open Data Day!
 
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Open-Data-Day/blob/master/2020/Slides/Open%20Data%20Day%202020%20.png"><BR>
+  <img width="480" height="270" src="https://github.com/devoworm/Open-Data-Day/blob/master/2020/Slides/Open%20Data%20Day%202020.png"><BR>
 </p>
   
 <p align="center">
