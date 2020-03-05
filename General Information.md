@@ -6,3 +6,5 @@ For our activities in 2019, visit this [Synthetic Daisies blogpost](http://synth
 * please consult our [community roadmap](https://github.com/devoworm/devoworm.github.io/blob/master/DevoWorm.md) for more information about how your contributions might fit into the DevoWorm group.
 
 * we are also part of the [OpenWorm Foundation](http://openworm.org/), which has additional datasets in the areas of [_C. elegans_ body movement](http://movement.openworm.org/) and [nervous system structure and function](https://github.com/openworm).
+
+See our blog post on Synthetic Daisies  [link](http://syntheticdaisies.blogspot.com/2020/03/open-data-day-2020.html)
