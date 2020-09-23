@@ -1,1 +1,1 @@
-Welcome to Hacktoberfest! Details coming soon! In the meanwhile, check out our [DevoLearn](http://www.github.com/devolearn) repositories.
+Welcome to Hacktoberfest! Details coming soon! In the meanwhile, check out our [DevoLearn](http://www.github.com/devolearn) repositories and our [DevoLearn AI](https://devoworm.github.io/DevoWormAi/) resources.
