@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=60% height=60% src="">
+  <img width=60% height=60% src="https://github.com/devoworm/Open-Data-Day/blob/master/Hacktoberfest%202020/hacktoberfest.png">
 </p>
 
 Welcome to Hacktoberfest! Details coming soon! In the meanwhile, check out our [DevoLearn](http://www.github.com/devolearn) repositories and our [DevoLearn AI](https://devoworm.github.io/DevoWormAi/) resources.
