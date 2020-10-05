@@ -5,3 +5,5 @@
 Welcome to Hacktoberfest! Details coming soon! In the meanwhile, check out our [DevoLearn](http://www.github.com/devolearn) repositories and our [DevoLearn AI](https://devoworm.github.io/DevoWormAi/) resources.
 
 Want to participate in Hacktoberfest @ DevoWorm? Look at our issue board for [Group Meetings](https://github.com/devoworm/Group-Meetings/projects/1), or look at the [contribution guidelines for DevoLearn](https://github.com/DevoLearn/Contribution_guidelines/blob/master/contribution.md) and contribute a [Data Science demo](https://github.com/DevoLearn/data-science-demos). Select issues on the Group Meetings issue board (DeovWorm) and the [Community Board for DevoLearn](https://github.com/DevoLearn/Community-Board/projects/1) are also marked with the "Hacktoberfest" label. Once you decide where to contribute, issue a pull request or communicate your interest as a comment in the issue you want to address!
+
+Thanks to Mauyukh Deb and Ujjwal Singh for their administration efforts, and Github users Abtaha, Jainal09, RaviKarri, RudRajit1729, Joel-Hanson, shreyraj2002, Malvi-M, krishnakatyal, and RudRajit1729 for their commits so far!
